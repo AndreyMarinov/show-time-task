@@ -29,4 +29,4 @@ def substract_five_days_from_current_date():
 
 
 print('5 days before the current date:', substract_five_days_from_current_date())
-print(type(substract_five_days_from_current_date()))
+print(substract_five_days_from_current_date())
